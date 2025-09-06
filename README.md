@@ -29,7 +29,8 @@ This project is a prototype dashboard for monitoring household water usage and e
 
 ## ⚙️ How It Works
 - Current version uses **simulated data** (`numpy` and `pandas`)  
-- Real sensor data will be integrated via APIs/CSV/MQTT once available  
+- Real sensor data will be integrated via request api.
+- Can't add due to privacy concerns.  
 
 ---
 
