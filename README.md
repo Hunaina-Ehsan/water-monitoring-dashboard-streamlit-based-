@@ -14,15 +14,15 @@ This project is a prototype dashboard for monitoring household water usage and e
   - Leak detection (abnormal usage)  
 
 ---
-
 ## 📊 Demo Screenshots
 *(Simulated data – real dataset not included for privacy reasons)*
 
-![Tank Visualization](<img width="1300" height="634" alt="image" src="https://github.com/Hunaina-Ehsan/water-monitoring-dashboard-streamlit-based-/screenshots/tanks.jpg" />)
+![Tank Visualization](screenshots/tanks.jpg)  
 
-![Water Consumption Trends](<img width="1343" height="481" alt="image" src="https://github.com/Hunaina-Ehsan/water-monitoring-dashboard-streamlit-based-/screenshots/trends.jpg" />)
+![Water Consumption Trends](screenshots/trends.jpg)  
 
-![Alerts](<img width="1277" height="334" alt="image" src="https://github.com/Hunaina-Ehsan/water-monitoring-dashboard-streamlit-based-/screenshots/alerts.jpg" />)
+![Alerts](screenshots/alerts.jpg)  
+
 
 
 ---
