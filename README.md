@@ -49,8 +49,8 @@ This repo contains **only the prototype UI + dummy data** for demonstration purp
 ## ▶️ Run Locally
 ```bash
 # Clone the repo
-git clone <your-repo-url>
-cd water-monitoring-dashboard
+git https://github.com/Hunaina-Ehsan/water-monitoring-dashboard-streamlit-based-
+cd water-monitoring-dashboard-streamlit-based-
 
 # Install dependencies
 pip install -r requirements.txt
