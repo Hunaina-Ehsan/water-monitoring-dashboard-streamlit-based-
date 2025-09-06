@@ -18,11 +18,11 @@ This project is a prototype dashboard for monitoring household water usage and e
 ## 📊 Demo Screenshots
 *(Simulated data – real dataset not included for privacy reasons)*
 
-![Tank Visualization](<img width="1300" height="634" alt="image" src="https://github.com/user-attachments/assets/ee49cf0b-1db7-453d-b54e-b8afe6f6b2df" />)
+![Tank Visualization](<img width="1300" height="634" alt="image" src="screenshots/tanks.jpg" />)
 
-![Water Consumption Trends](<img width="1343" height="481" alt="image" src="https://github.com/user-attachments/assets/e6ca33d4-5d9f-493d-b73f-b80fea4dec3f" />)
+![Water Consumption Trends](<img width="1343" height="481" alt="image" src="screenshots/trends.jpg" />)
 
-![Alerts](<img width="1277" height="334" alt="image" src="https://github.com/user-attachments/assets/e8971d99-5b12-4929-9da4-1b344f8d1266" />)
+![Alerts](<img width="1277" height="334" alt="image" src="screenshots/alerts.jpg" />)
 
 
 ---
